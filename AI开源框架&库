@@ -7,6 +7,7 @@ TensorFlow
 		Scikit-learn
 		scipy
 		sklearn
+	深度学习库
 		Keras
 	图像识别库
 		opencv-python

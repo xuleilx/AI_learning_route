@@ -17,14 +17,15 @@
 	黄海广：深度学习课程笔记			电子书/在线
 	李宏毅：《一天读懂深度学习》			电子书
 	Tensorflow：选择性看经典视频和教程
-				TensorFlow技术解析与实战.李嘉璇.2017		电子书
-				Tensorflow 实战Google深度学习框架			电子书
-	Keras：《python深度学习》书和配套代码					电子书
+			TensorFlow技术解析与实战.李嘉璇.2017		电子书
+			Tensorflow 实战Google深度学习框架			电子书
+	Keras：选择性看经典视频和教程
+			《python深度学习》书 配套代码和数据集		电子书
 
 图像/视觉
 	数字信号处理：选择性看经典视频和教程
 	数字图像处理：选择性看经典视频和教程
-	Opencv：
+	Opencv：择性看经典视频和教程
 		2017CS231n 斯坦福李飞飞视觉识别		视频
 		斯坦福CS231n李飞飞计算机视觉			视频
 
@@ -48,4 +49,6 @@ Python
 	技术大牛
 	学术活动
 
-附件：学习资料见硬盘AI_learning_route文件夹和浏览器AI_learning_route收藏夹
+附件：已整理好的学习资料见
+		硬盘AI_learning_route文件夹
+		浏览器AI_learning_route收藏夹
