@@ -2,11 +2,10 @@ TensorFlow
 	基于TensorFlow上层框架&库：
 	机器学习库
 		Numpy
-		Matplotlib
 		Pandas
+		Matplotlib
 		Scikit-learn
 		scipy
-		sklearn
 	深度学习库
 		Keras
 	图像识别库
