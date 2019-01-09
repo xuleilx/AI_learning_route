@@ -9,10 +9,11 @@ TensorFlow
 	深度学习库
 		Keras
 	图像识别库
-		opencv-python
-		face_recognition
-		Pillow
-		dlib
+		opencv-python (conda install opencv-python)
+		Pillow (conda install Pillow)
+		dlib (conda install -c menpo dlib)
+		face_recognition (pip install face_recognition)
+				
 Caffe
 PyTorch
 MXNet
